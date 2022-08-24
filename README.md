@@ -4,12 +4,10 @@
 <h6 align="center">All codes are completely documented and commented in the beggining. </h6>
 
 > - Rajaee - Docker
-
-docker bod
+> docker bod
 
 > - Elmos
-
-male khode conference
+> male khode conference
 
 > - summer college
 
