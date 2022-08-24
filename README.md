@@ -3,7 +3,7 @@
 <h6 align="center">Here, the academic presentations' files, codes, descriptions and other useful resources is being shared. </h6>
 <h6 align="center">All codes are completely documented and commented in the beggining. </h6>
 
-> - Rajaee - Docker
+> - Rajaee - Docker\
 > docker bod
 
 > - Elmos
