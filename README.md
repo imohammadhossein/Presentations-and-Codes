@@ -12,3 +12,5 @@
 > - summer college
 
 > - SBU's
+
+> -Object segments ones
