@@ -12,5 +12,7 @@
 > - summer college
 
 > - SBU's
+> 1- Networks_in_Cognitive_science - (Shahid Beheshti University - Fall 2019)\
+> This short presentation - (See [Here](presentations/Networks_in_Cognitive_science.pdf))
 
 > - Object segments ones
