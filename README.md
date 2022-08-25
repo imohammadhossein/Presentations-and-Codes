@@ -11,8 +11,8 @@
 
 > - summer college
 
-> - SBU's
-> 1- Networks_in_Cognitive_science - (Shahid Beheshti University - Fall 2019)\
-> This short presentation - (See [Here](presentations/Networks_in_Cognitive_science.pdf))
+> - at Shahid Beheshti University \
+> 1- Networks_in_Cognitive_science - (SBU - Fall 2019)\
+> This short presentation has revealed some brain's main network connectome and it's related diseases - (See [Here](Presentations/Networks_in_Cognitive_science.pdf))
 
 > - Object segments ones
