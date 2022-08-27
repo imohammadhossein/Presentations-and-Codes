@@ -16,3 +16,6 @@
 > This short presentation has revealed some brain's main network connectome and it's related diseases - (See [Here](Presentations/Networks_in_Cognitive_science.pdf))
 
 > - Object segments ones
+
+> - Face Pareidolia proposal
+> Face pareidolia project proposal - (See [Here](Presentations/FacePareidolia_proposal.pdf))
