@@ -18,5 +18,5 @@
 > - Diagnostic regions at CNNs, Humans and Saliency models ([Codes](https://github.com/imohammadhossein/ObjectSegmentCNN))\
 > Project Proposal - (See [PDF](Presentations/diagnostic_regions_proposal.pdf))
 
-> - Face Pareidolia proposal \
+> - Face Pareidolia proposal ([Codes](https://github.com/imohammadhossein/FacePareidolia))\
 > Face pareidolia project proposal - (See [PDF](Presentations/FacePareidolia_proposal.pdf))
