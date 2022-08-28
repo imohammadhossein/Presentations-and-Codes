@@ -13,10 +13,10 @@
 
 > - at Shahid Beheshti University \
 > 1- Networks_in_Cognitive_science - (SBU - Fall 2019)\
-> This short presentation has revealed some brain's main network connectome and it's related diseases - (See [Here](Presentations/Networks_in_Cognitive_science.pdf))
+> This short presentation has revealed some brain's main network connectome and it's related diseases - (See [PDF](Presentations/Networks_in_Cognitive_science.pdf))
 
 > - Diagnostic regions at CNNs, Human and Saliency models \
-> Project Proposal - (See [Here](Presentations/diagnostic_regions_proposal.pdf))
+> Project Proposal - (See [PDF](Presentations/diagnostic_regions_proposal.pdf), [Codes](Presentations/diagnostic_regions_proposal.pdf))
 
 > - Face Pareidolia proposal \
-> Face pareidolia project proposal - (See [Here](Presentations/FacePareidolia_proposal.pdf))
+> Face pareidolia project proposal - (See [PDF](Presentations/FacePareidolia_proposal.pdf))
