@@ -16,7 +16,7 @@
 > This short presentation has revealed some brain's main network connectome and it's related diseases - (See [PDF](Presentations/Networks_in_Cognitive_science.pdf))
 
 > - Diagnostic regions at CNNs, Human and Saliency models \
-> Project Proposal - (See [PDF](Presentations/diagnostic_regions_proposal.pdf), [Codes](Presentations/diagnostic_regions_proposal.pdf))
+> Project Proposal - (See [PDF](Presentations/diagnostic_regions_proposal.pdf), [Codes](https://github.com/imohammadhossein/ObjectSegmentCNN))
 
 > - Face Pareidolia proposal \
 > Face pareidolia project proposal - (See [PDF](Presentations/FacePareidolia_proposal.pdf))
