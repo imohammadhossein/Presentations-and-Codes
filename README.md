@@ -7,9 +7,9 @@
 > docker bod
 
 > - Elmos
-> male khode conference
+> male khode conference + codes
 
-> - summer college
+> - summer college + codes
 
 > - at Shahid Beheshti University \
 > 1- Networks_in_Cognitive_science - (SBU - Fall 2019)\
