@@ -21,6 +21,6 @@
 > - Face Pareidolia ([Codes](https://github.com/imohammadhossein/FacePareidolia))\
 > Project proposal - (See [PDF](Presentations/FacePareidolia_proposal.pdf))
 
-+ If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
+# If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnikimaleki/)
