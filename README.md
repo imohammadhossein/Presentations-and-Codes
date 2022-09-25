@@ -1,7 +1,7 @@
-<h1 align="center">Presentations and Useful Python Codes</h1>
+<h1 align="center">Presentations and valuable Python Codes</h1>
 
-<h6 align="center">Here, the academic presentations' files, codes, descriptions and other useful resources is being shared. </h6>
-<h6 align="center">All codes are completely documented and commented in the beggining. </h6>
+<h6 align="center">Here, the academic presentations' files, codes, descriptions, and other valuable resources are being shared.  </h6>
+<h6 align="center">All codes are completely documented and tested. </h6>
 
 > - Rajaee - Docker\
 > docker bod
@@ -9,7 +9,8 @@
 > - Elmos
 > male khode conference + codes
 
-> - summer college + codes
+> - Part AI summer college, "Famous CNNs' Architecrure" - (Part college 2021)
+> In this presentation, famous convolutional neural networks, their functionality, and their pros and cons are explained and examined in detail. - (See [PDF](Presentations/Part_Summer_college_2021/))
 
 > - at Shahid Beheshti University \
 > 1- Networks_in_Cognitive_science - (SBU - Fall 2019)\
