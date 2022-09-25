@@ -6,7 +6,10 @@
 > - Rajaee - Docker\
 > docker bod
 
-> - Elmos
+> - Elmos 
+> male khode conference + codes
+
+> - Ferdowsi 
 > male khode conference + codes
 
 > - Part AI summer college, "Famous CNNs' Architecrure" - (Part college 2021)
